@@ -1,7 +1,7 @@
 # Todo list in Vue
 
 ## The Multilinear Story
-The story is in HTML format (I used Twine to assemble the story) in the folder 
+The story is in HTML format (I used Twine to assemble the story) in the folder. It is a simple scene with multilinear plot structure.
 ```
 todo-crud-vue\src\story\Once Upon A Time in Ancient Rome.html
 ```
